@@ -1,4 +1,14 @@
-### Hi there 👋
+
+[![insta](https://badgen.net/badge/instagram/@m.rohmer/blue)](https://www.instagram.com/m.rohmer/)
+[![twitter](https://badgen.net/badge/twitter/@matzerohmer/blue)](https://twitter.com/matzerohmer)
+[![strava](https://badgen.net/badge/strava/@Matthias%20Rohmer/orange)](https://www.strava.com/athletes/66002004)
+
+In love with Angular but currently exploring the world of Svelte.
+
+## About
+Web Developer at [@Immowelt Group](https://github.com/ImmoweltGroup), aged 27, based in [Erlangen](https://goo.gl/maps/gsj59qETV2z5j7FUA), Gravelbiker, FCN ❤️🖤, SEA 💚💙
+
+
 
 <!--
 **mrohmer/mrohmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
