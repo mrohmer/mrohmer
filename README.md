@@ -1,7 +1,7 @@
 
-[![insta](https://badgen.net/badge/instagram/@m.rohmer/blue)](https://www.instagram.com/m.rohmer/)
-[![twitter](https://badgen.net/badge/twitter/@matzerohmer/blue)](https://twitter.com/matzerohmer)
-[![strava](https://badgen.net/badge/strava/@Matthias%20Rohmer/orange)](https://www.strava.com/athletes/66002004)
+[![insta](https://img.shields.io/badge/instagram-%40m.rohmer-%23C13584)](https://www.instagram.com/m.rohmer/)
+[![twitter](https://img.shields.io/badge/twitter-%40matzerohmer-%231da1f2)](https://twitter.com/matzerohmer)
+[![strava](https://img.shields.io/badge/strava-%40Matthias%20Rohmer-%23fc4c02)](https://www.strava.com/athletes/66002004)
 
 In love with Angular but currently exploring the world of Svelte.
 
