@@ -8,6 +8,12 @@ In love with Angular but currently exploring the world of Svelte.
 ## About
 Web Developer at [@Immowelt Group](https://github.com/ImmoweltGroup), aged 27, based in [Erlangen](https://goo.gl/maps/gsj59qETV2z5j7FUA), Gravelbiker, FCN ❤️🖤, SEA 💚💙
 
+## Currently Coding To
+
+<a href="https://spotify-stats.rohmer.rocks/now-playing?open">
+  <img src="https://spotify-stats.rohmer.rocks/now-playing" alt="Currently Coding To">
+</a>
+
 
 
 <!--
