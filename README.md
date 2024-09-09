@@ -6,10 +6,11 @@
 
 ## About
 🏢 Senior Full Stack Developer at @Immowelt Group
-👴 30 years old
-📍 based in Oberasbach near Nürnberg
-🏟️ FCN ❤️🖤, SEA 💚💙
-🧑‍💻 huge Svelte fanboy
+
+👴 30 years old<br/>
+📍 based in Oberasbach near Nürnberg<br/>
+🏟️ FCN ❤️🖤, SEA 💚💙<br/>
+🧑‍💻 huge Svelte fanboy<br/>
 
 ## Currently Coding To
 
