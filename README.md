@@ -5,8 +5,7 @@
 
 
 ## About
-🏢 Senior Full Stack Developer at @Immowelt Group
-
+🏢 Senior Full Stack Developer at @Immowelt Group<br/>
 👴 30 years old<br/>
 📍 based in Oberasbach near Nürnberg<br/>
 🏟️ FCN ❤️🖤, SEA 💚💙<br/>
