@@ -3,10 +3,13 @@
 [![twitter](https://img.shields.io/badge/twitter-%40matzerohmer-%231da1f2)](https://twitter.com/matzerohmer)
 [![strava](https://img.shields.io/badge/strava-%40Matthias%20Rohmer-%23fc4c02)](https://www.strava.com/athletes/66002004)
 
-In love with Angular but currently exploring the world of Svelte.
 
 ## About
-Web Developer at [@Immowelt Group](https://github.com/ImmoweltGroup), aged 27, based in [Erlangen](https://goo.gl/maps/gsj59qETV2z5j7FUA), Gravelbiker, FCN ❤️🖤, SEA 💚💙
+- Senior Fullstack Developer at [@Immowelt Group](https://github.com/ImmoweltGroup),
+- 30 years old
+- based in Oberasbach near Nürnberg
+- FCN ❤️🖤, SEA 💚💙
+- Svelte Fanboy
 
 ## Currently Coding To
 
