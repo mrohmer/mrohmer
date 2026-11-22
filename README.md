@@ -5,31 +5,11 @@
 
 
 ## About
-🏢 Senior Full Stack Developer at @aviv Germany GmbH (immowelt/immonet)<br/>
-👴 30 years old<br/>
+🏢 Senior Full Stack Developer<br/>
+🚧 Currently renovating a small home for my family<br/>
+👴 32 years old<br/>
 📍 based in Oberasbach near Nürnberg<br/>
 🏟️ FCN ❤️🖤, SEA 💚💙<br/>
 🧑‍💻 huge Svelte fanboy<br/>
 
-## Currently Coding To
 
-<a href="https://spotify-stats.rohmer.rocks/now-playing?open">
-  <img src="https://spotify-stats.rohmer.rocks/now-playing" alt="Currently Coding To">
-</a>
-
-
-
-<!--
-**mrohmer/mrohmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
