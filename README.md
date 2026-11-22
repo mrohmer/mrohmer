@@ -3,8 +3,6 @@
 [![twitter](https://img.shields.io/badge/twitter-%40matzerohmer-%231da1f2)](https://twitter.com/matzerohmer)
 [![strava](https://img.shields.io/badge/strava-%40Matthias%20Rohmer-%23fc4c02)](https://www.strava.com/athletes/66002004)
 
-
-## About
 🏢 Senior Full Stack Developer<br/>
 🚧 Currently renovating a small home for my family<br/>
 👴 32 years old<br/>
